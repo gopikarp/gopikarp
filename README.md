@@ -1,3 +1,5 @@
+![Header](https://github.com/gopikarp/gopikarp/assets/100861026/7ad6b5df-5039-44f3-969f-a2e96b5003e5)
+
 <h1 align="center">Hi 👋, I'm Gopika</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 <img align="right" width="400" src="https://i.pinimg.com/originals/9c/fb/09/9cfb09f0c029e1f8c938208a7e278d76.gif">
