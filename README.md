@@ -15,13 +15,13 @@
 - 📫 How to reach me **gokurprabhu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-
+<p align="left">
   
 <div class="social-icons">
   <a href="https://www.linkedin.com/in/gopika-r-46041324a" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://www.instagram.com/invites/contact/?i=1p4b6hevs44de&utm_content=39a85rj" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a><a href="https://medium.com/@gopikaprabhu020"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Medium" width="21px"/></a>
 </div>
-
+</p>
 <!-- <p align="left">
 <a href="https://www.linkedin.com/in/gopika-r-46041324a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gopika-r-46041324a" height="30" width="40" /></a>
   <a href="https://medium.com/@gopikaprabhu020"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
